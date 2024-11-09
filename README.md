@@ -8,3 +8,5 @@
 - **Error Handling:** Handles API errors and displays appropriate messages.
 
 ## Link - https://codesandbox.io/p/github/anik-saha-2001/food-recipie-app/main?import=true
+
+## Link to Gemini Chat- https://gemini.google.com/u/1/app/3444d587ddd6f195

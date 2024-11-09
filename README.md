@@ -7,6 +7,6 @@
 - **Responsive Design:** The app adapts to different screen sizes, providing a seamless user experience.
 - **Error Handling:** Handles API errors and displays appropriate messages.
 
-## Link - https://codesandbox.io/p/github/anik-saha-2001/food-recipie-app/main?import=true
-
+## Link to codesandbox - https://codesandbox.io/p/github/anik-saha-2001/food-recipie-app/main?import=true
+## Live link - https://food-recipie-app-azure.vercel.app
 ## Link to Gemini Chat- https://gemini.google.com/u/1/app/3444d587ddd6f195
